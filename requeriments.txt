@@ -1,0 +1,11 @@
+appdirs==1.4.3
+Django==1.10
+django-filter==1.0.1
+djangorestframework==3.6.2
+drf-nested-routers==0.90.0
+Markdown==2.6.8
+olefile==0.44
+packaging==16.8
+Pillow==4.0.0
+pyparsing==2.2.0
+six==1.10.0
