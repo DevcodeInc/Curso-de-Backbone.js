@@ -11,8 +11,8 @@ Dillinger uses a number of open source projects to work properly:
 ### Instalación
 
 ```sh
-$ git clone https://github.com/DevcodeInc/Curso-de-Backbone.js.git
-$ cd Curso-de-Backbone.js
+$ git clone https://github.com/DevcodeInc/Curso-de-Backbone.js.git Curso-de-Backbone
+$ cd Curso-de-Backbone
 $ pip install -r requirements.txt
 ```
 
